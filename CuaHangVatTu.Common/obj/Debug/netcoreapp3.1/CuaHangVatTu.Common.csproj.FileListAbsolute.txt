@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\CuaHangVatTu\CuaHangVatTu.Common\bin\Debug\netcoreapp3.1\CuaHangVatTu.Common.deps.json
+C:\Users\HP\source\repos\CuaHangVatTu\CuaHangVatTu.Common\bin\Debug\netcoreapp3.1\CuaHangVatTu.Common.runtimeconfig.json
+C:\Users\HP\source\repos\CuaHangVatTu\CuaHangVatTu.Common\bin\Debug\netcoreapp3.1\CuaHangVatTu.Common.runtimeconfig.dev.json
+C:\Users\HP\source\repos\CuaHangVatTu\CuaHangVatTu.Common\bin\Debug\netcoreapp3.1\CuaHangVatTu.Common.dll
+C:\Users\HP\source\repos\CuaHangVatTu\CuaHangVatTu.Common\bin\Debug\netcoreapp3.1\CuaHangVatTu.Common.pdb
+C:\Users\HP\source\repos\CuaHangVatTu\CuaHangVatTu.Common\obj\Debug\netcoreapp3.1\CuaHangVatTu.Common.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\CuaHangVatTu\CuaHangVatTu.Common\obj\Debug\netcoreapp3.1\CuaHangVatTu.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\CuaHangVatTu\CuaHangVatTu.Common\obj\Debug\netcoreapp3.1\CuaHangVatTu.Common.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\CuaHangVatTu\CuaHangVatTu.Common\obj\Debug\netcoreapp3.1\CuaHangVatTu.Common.AssemblyInfo.cs
+C:\Users\HP\source\repos\CuaHangVatTu\CuaHangVatTu.Common\obj\Debug\netcoreapp3.1\CuaHangVatTu.Common.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\CuaHangVatTu\CuaHangVatTu.Common\obj\Debug\netcoreapp3.1\CuaHangVatTu.Common.dll
+C:\Users\HP\source\repos\CuaHangVatTu\CuaHangVatTu.Common\obj\Debug\netcoreapp3.1\CuaHangVatTu.Common.pdb
+C:\Users\HP\source\repos\CuaHangVatTu\CuaHangVatTu.Common\obj\Debug\netcoreapp3.1\CuaHangVatTu.Common.genruntimeconfig.cache

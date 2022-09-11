@@ -7,7 +7,7 @@ using System.Linq;
 
 namespace CuaHangVatTu.BLL
 {
-    public class VattuService: GenericService<VattuRep,Vattu>
+    public class VattuService: GenericService<VattuRep, Vattu>
     {
 
         private VattuRep vattuRep;
